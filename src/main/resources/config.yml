@@ -1,0 +1,22 @@
+tablist:
+  header: "&8» &b&lXYRON NETWORK &8«\n&7Willkommen auf dem Server!"
+  footer: "&7Spieler online: &a%online%&7/&c%max_online%\n&8» &eplay.xyron.de &8«"
+
+scoreboard:
+  title: "&b&lXYRON&f&lMC"
+  lines:
+    - "&7&m--------------------"
+    - "&fSpieler: &b%player%"
+    - "&fRang: %rank_color%%rank_name%"
+    - ""
+    - "&fTeam: &e%team%"
+    - "&fPing: &a%ping% ms"
+    - ""
+    - "&fKills: &a%kills%"
+    - "&fTode: &c%deaths%"
+    - "&7&m--------------------"
+    - "&eplay.xyron.de"
+
+features:
+  join-sound: true
+  maintenance-mode: false
